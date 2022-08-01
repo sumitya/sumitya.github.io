@@ -5,28 +5,22 @@ I’m Sumit Yadav, currently working as Sr. Software Engineer at Altran Technolo
 ## Experience
 
 ### Altran Technologies
-#### Senior Software Engineer, Freelance
-#### (June 18, 2021 - Present)
+#### Senior Software Engineer, Freelance (June 18, 2021 - Present)
 
 ### ICE Mortagage Technology
-#### Sr Engineer(data)
-##### (December 01, 2020 - June 11, 2021)
+#### Sr Engineer(data) (December 01, 2020 - June 11, 2021)
 
 ### Amazon, Inc
-#### Data Engineer
-##### (February 01, 2019 - December 01, 2020)
+#### Data Engineer (February 01, 2019 - December 01, 2020)
 
 ### HCL Technology
-## Senior BigData Engineer
-# (November 01, 2016 - January 01, 2019)
+#### Senior BigData Engineer (November 01, 2016 - January 01, 2019)
 
 ### Amdocs Corporation
-## BigData Developer
-# (December 01, 2014 - November 01, 2016)
+#### BigData Developer (December 01, 2014 - November 01, 2016)
 
 ### Sears Holdings India
-#### Hadoop Developer
-##### (June 18, 2012 - November 01, 2014)
+#### Hadoop Developer (June 18, 2012 - November 01, 2014)
 
 ### Social sites, where I am active
 
@@ -56,7 +50,10 @@ I’m Sumit Yadav, currently working as Sr. Software Engineer at Altran Technolo
 > AWS CloudFormation, Terraform
 
 ##### Tools
-> Jenkins, Docker
+> Git, Jenkins, Docker
 
 ##### BigData 
 > Apache Hadoop,  Apache Hive, Apache HBASE, SQL and Data Modelling
+
+##### Explored 
+> React Native
