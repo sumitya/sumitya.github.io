@@ -4,7 +4,8 @@
 
 ### Social sites, where I am active
 
-- [Github](https://github.com/sumitya/) 
+- [Github](https://github.com/sumitya/)
+- [ProblemSolving](https://www.scaler.com/academy/profile/4131cd85ecff/)
 - [StackOverflow](https://stackoverflow.com/users/3639306/sumitya)
 - [LinkedIn](https://www.linkedin.com/in/sumitya/)
 - [Blogging](https://atozlearner.com/)
