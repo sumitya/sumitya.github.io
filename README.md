@@ -1,6 +1,6 @@
 ## Hi There
 
-I’m Sumit Yadav, currently working as Sr. Software Engineer at Altran Technologies, Portugal. I have an experience in building microservices to ingest, persist TBs of data. Worked as a Data Engineer at Amazon with a multi cultural team in Cape Town City. Further below is my background.
+*I’m Sumit Yadav, currently working as Sr. Software Engineer at Altran Technologies, Portugal. I have an experience in building microservices to ingest, persist TBs of data. Worked as a Data Engineer at Amazon with a multi cultural team in Cape Town City. Further below is my background.*
 
 ## Experience
 
@@ -57,3 +57,10 @@ I’m Sumit Yadav, currently working as Sr. Software Engineer at Altran Technolo
 
 ##### Explored 
 > React Native
+
+
+##### Wanna chat with me ? 
+
+*Have an exciting role for me in mind ? or wish to dicuss software engineering ?*
+
+*Send me your message @: sumityadav.yadav45@gmail.com*
