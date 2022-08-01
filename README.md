@@ -2,20 +2,19 @@
 
 I’m Sumit Yadav, currently working as Sr. Software Engineer at Altran Technologies, Portugal. I have an experience in building microservices to ingest, persist TBs of data. Worked as a Data Engineer at Amazon with a multi cultural team in Cape Town City. Further below is my background.
 
-### Experience
+## Experience
 
-### 2016-2022 - Adobe
 ### Altran Technologies
-# Senior Software Engineer, Freelance
-# (June 18, 2021 - Present)
+#### Senior Software Engineer, Freelance
+#### (June 18, 2021 - Present)
 
 ### ICE Mortagage Technology
-## Sr Engineer(data)
-# (December 01, 2020 - June 11, 2021)
+#### Sr Engineer(data)
+##### (December 01, 2020 - June 11, 2021)
 
 ### Amazon, Inc
-## Data Engineer
-# (February 01, 2019 - December 01, 2020)
+#### Data Engineer
+##### (February 01, 2019 - December 01, 2020)
 
 ### HCL Technology
 ## Senior BigData Engineer
@@ -26,8 +25,8 @@ I’m Sumit Yadav, currently working as Sr. Software Engineer at Altran Technolo
 # (December 01, 2014 - November 01, 2016)
 
 ### Sears Holdings India
-## Hadoop Developer
-# (June 18, 2012 - November 01, 2014)
+#### Hadoop Developer
+##### (June 18, 2012 - November 01, 2014)
 
 ### Social sites, where I am active
 
@@ -38,26 +37,26 @@ I’m Sumit Yadav, currently working as Sr. Software Engineer at Altran Technolo
 
 ### Tech. I've Explored So far
 
-## Programming & Scripting
+#### Programming & Scripting
 > Java, Scala, Shell Scripting
 
-## API
+##### API
 > Springboot
 
-## AWS
+##### AWS
 > Distributed Computing: Apache Spark, AWS Glue, AWS EMR
 > Databases/Storage: Amazon Athena, Amazon Redshift, Amazon DynamoDB
 > Container : Amazon ECS
 > Streaming : Amazon Kenisis
 
-## Stream Processing
+##### Stream Processing
 > Apache Kakfa, Apache Spark Streaming
 
-## IaaS
+##### IaaS
 > AWS CloudFormation, Terraform
 
-## Tools
+##### Tools
 > Jenkins, Docker
 
-## BigData 
+##### BigData 
 > Apache Hadoop,  Apache Hive, Apache HBASE, SQL and Data Modelling
