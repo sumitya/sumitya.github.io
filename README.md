@@ -1,22 +1,8 @@
 ## Hi There
 
-I’m Sumit Yadav, Sr. Software Engineer at Altran Technologies, Portugal.
+I’m Sumit Yadav, currently working as Sr. Software Engineer at Altran Technologies, Portugal. I have an experience in building microservices to ingest, persist TBs of data. Worked as a Data Engineer at Amazon with a multi cultural team in Cape Town City. Further below is my background.
 
 ### Experience
-
-```markdown
-
-### 2016-2022 - Adobe
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 
 ### 2016-2022 - Adobe
 ### Altran Technologies
@@ -43,39 +29,35 @@ I’m Sumit Yadav, Sr. Software Engineer at Altran Technologies, Portugal.
 ## Hadoop Developer
 # (June 18, 2012 - November 01, 2014)
 
-```
+### Social sites, where I am active
 
-### Social Links
-
-```markdown
-
+- [github](https://github.com/sumitya/) 
 - [StackOverflow](https://stackoverflow.com/users/3639306/sumitya)
-- [Blogging](https://atozlearner.com/)
 - [LinkedIn](https://www.linkedin.com/in/sumitya/)
+- [Blogging](https://atozlearner.com/)
 
-```
-
-### Technologies Explored So far
-
-```markdown
-
-## API
-> Springboot
-## AWS
-> Distributed Computing: Apache Spark, AWS Glue, AWS EMR, Apache Hadoop
-> Databases/Storage: Amazon Athena, Apache Hive,  Amazon Redshift, SQL and Data Modelling, Amazon DynamoDB, Apache HBASE
+### Tech. I've Explored So far
 
 ## Programming & Scripting
 > Java, Scala, Shell Scripting
 
+## API
+> Springboot
+
+## AWS
+> Distributed Computing: Apache Spark, AWS Glue, AWS EMR
+> Databases/Storage: Amazon Athena, Amazon Redshift, Amazon DynamoDB
+> Container : Amazon ECS
+> Streaming : Amazon Kenisis
+
 ## Stream Processing
 > Apache Kakfa, Apache Spark Streaming
+
 ## IaaS
 > AWS CloudFormation, Terraform
 
 ## Tools
 > Jenkins, Docker
 
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## BigData 
+> Apache Hadoop,  Apache Hive, Apache HBASE, SQL and Data Modelling
