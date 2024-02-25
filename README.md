@@ -1,6 +1,6 @@
 ## Hi There
 
-*I’m Sumit Yadav, currently working as Sr. Software Engineer at EagleView Technologies, Bangalore. I have an experience in building backend microservices to ingest, persist TBs of data. Worked as a Data Engineer at Amazon with a multi cultural team in Cape Town City. Further below is my background.*
+*I’m Sumit Yadav, currently working as Sr. Software Engineer at EagleView Technologies, Bangalore. I have an experience in building backend microservices for geospatial image processing, ingest & persist TBs of streaming data. In past worked as a Data Engineer at Amazon with a multi cultural team in Cape Town city, and other product companies. Further below is my background.*
 
 ### Social sites, where I am active
 
@@ -36,7 +36,7 @@
 **AWS**
 > Distributed Computing: Apache Spark, AWS Glue, AWS EMR
 > Databases/Storage: Amazon Athena, Amazon Redshift, Amazon DynamoDB
-> Container : Amazon ECS
+> Container : Amazon ECS, Amazon EKS
 > Streaming : Amazon Kenisis
 
 **Stream Processing**
