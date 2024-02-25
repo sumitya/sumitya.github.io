@@ -1,6 +1,6 @@
 ## Hi There
 
-*I’m Sumit Yadav, currently working as Sr. Software Engineer at Altran Technologies, Portugal. I have an experience in building microservices to ingest, persist TBs of data. Worked as a Data Engineer at Amazon with a multi cultural team in Cape Town City. Further below is my background.*
+*I’m Sumit Yadav, currently working as Sr. Software Engineer at EagleView Technologies, Bangalore. I have an experience in building backend microservices to ingest, persist TBs of data. Worked as a Data Engineer at Amazon with a multi cultural team in Cape Town City. Further below is my background.*
 
 ### Social sites, where I am active
 
@@ -11,8 +11,9 @@
 - [Blogging](https://atozlearner.com/)
 
 ## Experience
+* EagleView Technologies, Senior Software Engineer (Nov 14, 2022 - Present)
 
-* Altran Technologies, Senior Software Engineer, Freelance (June 18, 2021 - Present)
+* Altran Technologies, Senior Software Engineer, Freelance (June 18, 2021 - Sept 30, 2022)
 
 * ICE Mortagage Technology, Sr Engineer(data) (December 01, 2020 - June 11, 2021)
 
@@ -27,10 +28,10 @@
 ## Tech. I've Explored So far
 
 **Programming & Scripting**
-> Java, Scala, Shell Scripting
+> Java, GoLang, Scala, Shell Scripting
 
 **API**
-> Spring Boot
+> Spring Boot, Grpc
 
 **AWS**
 > Distributed Computing: Apache Spark, AWS Glue, AWS EMR
@@ -45,7 +46,7 @@
 > AWS CloudFormation, Terraform
 
 **Tools**
-> Git, Jenkins, Docker
+> Git, Jenkins, Kubernetes,Docker
 
 **BigData**
 > Apache Hadoop,  Apache Hive, Apache HBASE, SQL and Data Modelling
